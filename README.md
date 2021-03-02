@@ -1,4 +1,4 @@
-# MegaRunner
+# Mega Runner
 Clone game of Load Runner game was made in 1983, The theme of the game based on Mega man zero game.
 
 How to run:
