@@ -27,3 +27,6 @@ Each Gift collected give randomly one of the following:
 
 **Main Goal:**
 Collect all coins in each stage witout losing all The Player lives.
+
+Game instruction:
+<img src = "https://drive.google.com/file/d/1URjoOEtVJuk5XGRchK5Ay4KT22c4IPU4/view?usp=sharing" height = "450"/>
