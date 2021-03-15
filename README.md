@@ -29,4 +29,6 @@ Each Gift collected give randomly one of the following:
 Collect all coins in each stage witout losing all The Player lives.
 
 Game instruction:
+<p>
 <img src = "https://github.com/Shimshon21/MegaRunner/blob/master/Mega_Runner_Menu.PNG?raw=true" height = "450"/>
+</p>
