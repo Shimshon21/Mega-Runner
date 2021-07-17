@@ -32,3 +32,6 @@ Game instruction:
 <p>
 <img src = "https://github.com/Shimshon21/MegaRunner/blob/master/Mega_Runner_Menu.PNG?raw=true" height = "250" width = "450"/>
 </p>
+
+Video link:
+https://youtu.be/6vdjVqKKT5M
