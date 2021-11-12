@@ -1,5 +1,5 @@
 # Mega Runner
-Clone game of Load Runner game was made in 1983, the theme of the game based on Mega Man Zero game.
+Clone game of Load Runner game was made in 1983, the theme of the game based on Mega Man Zero.
 
 How to run:
 To run the game use Visual Studio Software(2019 at least),
